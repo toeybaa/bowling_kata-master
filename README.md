@@ -1,3 +1,3 @@
 bowling_kata
 ============
-[ ![Codeship Status for gain9999/bowling_kata](https://codeship.io/projects/98422ad0-35ae-0132-af7d-4e5daa8e92bc/status)](https://codeship.io/projects/41157)
+[ ![Codeship Status for toeybaa/bowling_kata-master](https://codeship.io/projects/30af7c50-3b56-0132-1dcf-566c0f69a34d/status)](https://codeship.io/projects/42603)
